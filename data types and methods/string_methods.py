@@ -24,12 +24,12 @@ b=str()
 # b='john doe'
 # print(b[0].upper()+b[1:])
 
-# c='abcdefghij'
-# l=len(c)
-# a=''
-# for i in range(l):
-#     if(i%2!=0):
-#         a=a+c[i].upper()
-#     else:
-#         a=a+c[i].lower()
-# print(a)
+c='abcdefghij'
+l=len(c)
+a=''
+for i in range(l):
+    if(i%2!=0):
+        a=a+c[i].upper()
+    else:
+        a=a+c[i].lower()
+print(a)
