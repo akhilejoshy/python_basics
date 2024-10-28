@@ -1,0 +1,23 @@
+user defined module
+
+
+mypackage/
+    __init__.py
+    module1.py
+    module2.py
+
+from packagename import module name
+
+pip instal packagename
+
+
+
+opps consept in python
+
+what is opps concept?
+    oops concept refers to a programming pattern based on the concept of object
+
+   objects can contaim both data and functions
+
+   the primary goal of opp is to incresse fleciblty nd maintainability in progrm
+   
