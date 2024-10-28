@@ -55,5 +55,3 @@ from multiprocessing.forkserver import get_inherited_fds
 #x1=(-b+d)/(2*a)
 #x2=(-b-d)/(2*a)
 #print('x1=',x1,'x2=',x2)
-gfg
-jhj
